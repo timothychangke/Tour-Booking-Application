@@ -1,19 +1,34 @@
 # Natours: Explore Nature's Wonders
 
-![Natours Logo](link-to-logo.png)
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=200px height=200px src="img/favicon.png" alt="Project logo"></a>
+</p>
+
+<h3 align="center">Natours</h3>
+
+<div align="center">
+
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+
+</div>
+
+---
+
+<p align="center"> Exciting tours for adventurous people
+    <br> 
+</p>
 
 ## Table of Contents
 - [About](#about)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Deployment](#deployment)
 - [Built Using](#built-using)
-- [Features](#features)
+- [Features include](#features)
 - [Screenshots](#screenshots)
-- [Contribution](#contribution)
-- [License](#license)
+
 
 ## About
 
@@ -27,37 +42,22 @@ Before you begin, ensure you have Node.js installed on your system. You can down
 
 ### Installation
 
-1. Clone the repository:
+1. Clone the repo:
 
    ```bash
-   git clone https://github.com/your-username/natours.git
-Navigate to the project directory:
-bash
-Copy code
-cd natours
-Install dependencies:
-bash
-Copy code
-npm install
-Usage
+   git clone https://github.com/timothychangke/tour-booking-application.git
+   
+2. Navigate to package.json where you can find the relevant scripts to run
 
-Make changes to the components inside the sass folder. Run the following command to see changes in the browser:
-
-bash
-Copy code
-npm run watch:sass
-Deployment
-
-Deploy this page to Netlify or your preferred hosting service.
-
-Built Using
+## Built Using <a name = "built_using"></a>
 
 HTML - Markup Language
 CSS - Stylesheets
 SASS - CSS Preprocessor
 Node.js - Server Environment
 MongoDB - Database
-Features
+
+## Features include <a name = "built_using"></a>
 
 Signup and create your own account
 Login to your account
@@ -68,7 +68,15 @@ Stripe payment checkout gateway
 Upload profile picture
 Email service
 Responsive for Mobiles, Laptops, and PCs
-Screenshots
 
-Desktop
-Mobile
+
+## Screenshots 
+#### Desktop
+
+[![natours-home.jpg](https://i.postimg.cc/mgQRybRQ/natours-home.jpg)](https://postimg.cc/bZNKzfZJ)
+
+#### Mobile
+
+[![natours-mobile-login.jpg](https://i.postimg.cc/jSVtfWVx/natours-mobile-login.jpg)](https://postimg.cc/4m1DkxNq)
+
+
