@@ -1,18 +1,4 @@
-# Natours: Explore Nature's Wonders
-
-<p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="img/favicon.png" alt="Project logo"></a>
-</p>
-
-<h3 align="center">Natours</h3>
-
-<div align="center">
-
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-
-</div>
+# Tour Booking App: Explore Nature's Wonders
 
 ---
 
