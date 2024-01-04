@@ -1,4 +1,4 @@
-# Tour Booking App: Explore Nature's Wonders
+# Explore Nature's Wonders with this tour booking application
 
 ---
 
@@ -18,7 +18,7 @@
 
 ## About
 
-Natours is an exciting project that offers a platform for adventurous individuals to discover and book thrilling tours. This landing page showcases various nature tours, providing detailed information about each adventure, and allows users to make bookings.
+This is an exciting project that offers a platform for adventurous individuals to discover and book thrilling tours. This landing page showcases various nature tours, providing detailed information about each adventure, and allows users to make bookings.
 
 ## Getting Started
 
