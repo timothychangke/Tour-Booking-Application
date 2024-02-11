@@ -59,10 +59,12 @@ Responsive for Mobiles, Laptops, and PCs
 ## Screenshots 
 #### Desktop
 
-[![natours-home.jpg](https://i.postimg.cc/mgQRybRQ/natours-home.jpg)](https://postimg.cc/bZNKzfZJ)
+![natours-home-2](https://github.com/timothychangke/Tour-Booking-Application/assets/101695218/3b7ce718-df6d-4b84-95f4-0ac7d57c9f1e)
+
 
 #### Mobile
 
-[![natours-mobile-login.jpg](https://i.postimg.cc/jSVtfWVx/natours-mobile-login.jpg)](https://postimg.cc/4m1DkxNq)
+![natours-mobile-login-2](https://github.com/timothychangke/Tour-Booking-Application/assets/101695218/88dec13c-6a15-47d2-ad75-410a36021a56)
+
 
 
